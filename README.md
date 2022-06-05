@@ -9,4 +9,4 @@ A mood lamp with Attiny13 and WS2812 LEDs
 
 ![mode 3](https://github.com/arduinocelentano/t13_ws2812_lamp/blob/master/demo/lamp_demo3.gif)
 
-![schematics] (https://github.com/arduinocelentano/t13_ws2812_lamp/blob/master/shematics.webp)
+![schematics] (https://github.com/arduinocelentano/t13_ws2812_lamp/blob/master/shematics.png)](https://github.com/arduinocelentano/t13_ws2812_lamp/blob/master/scematics.png)
